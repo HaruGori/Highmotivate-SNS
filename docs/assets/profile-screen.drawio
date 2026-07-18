@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="プロフィール画面" id="profile">
+    <mxGraphModel dx="800" dy="600" grid="1" gridSize="10">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <!-- 画面枠 -->
+        <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#cccccc;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="360" height="560" as="geometry" />
+        </mxCell>
+        <!-- ヘッダー -->
+        <mxCell id="3" value="← プロフィール" style="text;html=1;fontSize=16;fontStyle=1;align=left;verticalAlign=middle;fillColor=#ffffff;strokeColor=#cccccc;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="360" height="44" as="geometry" />
+        </mxCell>
+        <!-- カバー -->
+        <mxCell id="4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4caf50;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="84" width="360" height="100" as="geometry" />
+        </mxCell>
+        <!-- アイコン -->
+        <mxCell id="5" value="アイコン" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cccccc;strokeColor=#ffffff;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="55" y="140" width="60" height="60" as="geometry" />
+        </mxCell>
+        <!-- ユーザー情報 -->
+        <mxCell id="6" value="ユーザー名" style="text;html=1;fontSize=18;fontStyle=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="210" width="200" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="@username" style="text;html=1;fontSize=12;fillColor=none;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="55" y="234" width="200" height="16" as="geometry" />
+        </mxCell>
+        <!-- プロフィール情報 -->
+        <mxCell id="8" value="フォロー 100  フォロワー 50" style="text;html=1;fontSize=12;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="260" width="200" height="20" as="geometry" />
+        </mxCell>
+        <!-- 応援スコア -->
+        <mxCell id="9" value="🎉 応援スコア: 25" style="text;html=1;fontSize=12;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="280" width="200" height="20" as="geometry" />
+        </mxCell>
+        <!-- タブ -->
+        <mxCell id="10" value="エール  いいね  応援" style="text;html=1;fontSize=13;align=center;fillColor=#ffffff;strokeColor=#cccccc;" vertex="1" parent="1">
+          <mxGeometry x="40" y="310" width="360" height="36" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
