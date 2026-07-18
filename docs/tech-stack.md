@@ -17,8 +17,8 @@
 | Go フォーマッター | gofumpt | 厳格なルールでGoのイディオムを学習 |
 | Go import管理 | gopls（LSP） | エディタ保存時に自動整理、手間なし |
 | Go リンター | staticcheck（決定） | シンプル、Goチーム推奨 |
-| Next.js フォーマッター | Prettier | 業界標準 |
-| Next.js リンター | ESLint | Next.js標準搭載 |
+| Next.js フォーマッター | Biome | Rust製、高速、Prettier互換 |
+| Next.js リンター | Oxlint | Rust製、超高速、ルール数豊富 |
 
 ## 選定理由
 

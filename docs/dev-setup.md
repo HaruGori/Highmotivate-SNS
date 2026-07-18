@@ -82,9 +82,8 @@ go install honnef.co/go/tools/cmd/staticcheck@latest
 
 ### Next.js（ frontend/）
 
-Next.js 作成時に ESLint は標準搭載済み。
-
 ```bash
-# Prettier
-cd frontend && npm install -D prettier eslint-config-prettier
+# フォーマッター: Biome / リンター: Oxlint
+npm run format   # Biome で整形
+npm run lint     # Oxlint でチェック
 ```
