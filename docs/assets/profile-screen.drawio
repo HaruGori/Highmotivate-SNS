@@ -14,7 +14,7 @@
           <mxGeometry x="40" y="40" width="360" height="44" as="geometry" />
         </mxCell>
         <!-- カバー -->
-        <mxCell id="4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1da1f2;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4caf50;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="84" width="360" height="100" as="geometry" />
         </mxCell>
         <!-- アイコン -->
@@ -32,12 +32,12 @@
         <mxCell id="8" value="フォロー 100  フォロワー 50" style="text;html=1;fontSize=12;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="55" y="260" width="200" height="20" as="geometry" />
         </mxCell>
-        <!-- 応援数 -->
-        <mxCell id="9" value="🎉 応援された数: 25" style="text;html=1;fontSize=12;fillColor=none;" vertex="1" parent="1">
+        <!-- 応援スコア -->
+        <mxCell id="9" value="🎉 応援スコア: 25" style="text;html=1;fontSize=12;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="55" y="280" width="200" height="20" as="geometry" />
         </mxCell>
         <!-- タブ -->
-        <mxCell id="10" value="投稿  いいね  応援" style="text;html=1;fontSize=13;align=center;fillColor=#ffffff;strokeColor=#cccccc;" vertex="1" parent="1">
+        <mxCell id="10" value="エール  いいね  応援" style="text;html=1;fontSize=13;align=center;fillColor=#ffffff;strokeColor=#cccccc;" vertex="1" parent="1">
           <mxGeometry x="40" y="310" width="360" height="36" as="geometry" />
         </mxCell>
       </root>
