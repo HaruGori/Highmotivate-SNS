@@ -10,6 +10,16 @@
 | ホスティング | Oracle Cloud 無料枠 | ARM 4コア/24GB RAM/200GB 永続無料 |
 | デプロイ | Docker + docker-compose | 本番構成の学習 |
 
+## 開発ツール
+
+| ツール | 選定 | 理由 |
+|--------|------|------|
+| Go フォーマッター | gofumpt | 厳格なルールでGoのイディオムを学習 |
+| Go import管理 | gopls（LSP） | エディタ保存時に自動整理、手間なし |
+| Go リンター | staticcheck（決定） | シンプル、Goチーム推奨 |
+| Next.js フォーマッター | Prettier | 業界標準 |
+| Next.js リンター | ESLint | Next.js標準搭載 |
+
 ## 選定理由
 
 ### フロントエンド: Next.js
