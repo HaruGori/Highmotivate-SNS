@@ -1,0 +1,14 @@
+{
+  "go.useLanguageServer": true,
+  "gopls": {
+    "formatting.gofumpt": true
+  },
+  "go.lintTool": "staticcheck",
+  "go.lintFlags": ["-checks=all,-ST1000"],
+  "[go]": {
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    }
+  }
+}
