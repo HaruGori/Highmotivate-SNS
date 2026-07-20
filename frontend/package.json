@@ -6,7 +6,7 @@
 		"dev": "next dev",
 		"build": "next build",
 		"start": "next start",
-		"lint": "oxlint --format=pretty",
+		"lint": "oxlint",
 		"format": "biome check --write",
 		"format:check": "biome check"
 	},
